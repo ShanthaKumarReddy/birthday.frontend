@@ -1,0 +1,55 @@
+export const data=[
+    {
+        id:1,
+        name:"Diwakar",
+        Image:"https://i.ytimg.com/vi/iGz-6g6S9iI/hqdefault.jpg"
+    },
+    {
+        id:2,
+        name:"anil",
+        Image:"http://lh3.googleusercontent.com/-0UDSpG7rdoc/Va3okwWfQyI/AAAAAAAAFvI/wB_5IX3f1o4/s1600/15%252520-%2525201.jpg"
+    },
+    {
+        id:3,
+        name:"raghava",
+        Image:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FEthnic-Karigari-Decorative-Beautiful-Flowers%2Fdp%2FB07L1PLNMC&psig=AOvVaw36UQBRLIOT0wG0zGxA-Hiu&ust=1653661070485000&source=images&cd=vfe&ved=0CA4Q3YkBahcKEwig7-PXrf33AhUAAAAAHQAAAAAQFQ.jpg"
+    },
+    {
+        id:4,
+        name:"kiran",
+        image:"https://i.pinimg.com/736x/a8/ba/f4/a8baf4b438b17e9cbf93101be13d56f8.jpg"
+    },
+    {
+        id:5,
+        name:"Anitha",
+        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs59JjTQ5zg52W1MGhs7yrjqPvFcVPTBb0yTjsyV3Nxu_WMlYLxr0nd2HlQqeLER4yqCk&usqp=CAU"
+    },
+    {
+        id:6,
+        name:"sirisha",
+        image:"https://www.gardendesign.com/pictures/images/675x529Max/site_3/helianthus-yellow-flower-pixabay_11863.jpg"
+    },
+    {
+        id:7,
+        name:"shanth",
+        image:"https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510__480.jpg"
+    },
+    {
+        id:8,
+        name:"SIRISHA",
+        image:"https://cdn.pixabay.com/photo/2014/07/21/11/51/rose-398576_960_720.png"
+    },
+    {
+        id:9,
+        name:"sreenath",
+        image:"https://media.istockphoto.com/photos/there-are-many-of-beautiful-hydrangea-in-jeju-island-picture-id1327084678"
+
+    },
+    {
+        id:10,
+        name:"Yamuna",
+        image:"https://media.istockphoto.com/photos/there-are-many-of-beautiful-hydrangea-in-jeju-island-picture-id1321874090"
+    },
+
+
+]
